@@ -1,18 +1,6 @@
 # Rgb To Hex Fortran
-<style type="text/css">
-    * {
-        font-family: 'Saira Condensed', sans-serif;
-    }
-    .badge-container {
-        position: relative;
-        display: inline-flex; 
-        align-items: flex-start;
-    }
-    .badge-container img {
-        margin: 0 4px;
-    }
-</style>
-<div class="badge-container">
+
+<div style="position: relative;display: inline-flex;align-items: flex-start;">
   <img src="./resource/test.svg" alt="test" width="96">
   <img src="./resource/test1.svg" alt="test1" width="128">
 </div>
