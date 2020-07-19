@@ -5,6 +5,8 @@
 
 <img src="./resource/test1.svg" alt="test1" width="128">
 
+<object id="svg-object" data="./resource/test.svg" type="image/svg+xml"></object>
+
 Cross-platform command line interface program that converts RGB (Red,Green,Blue) integers into their corresponding hexadecimal value.
 
 ## Index
