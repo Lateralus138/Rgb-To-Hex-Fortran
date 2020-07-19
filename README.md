@@ -2,7 +2,7 @@
 
 
 <img src="./resource/test.svg" alt="test" width="96">
-<br>
+
 <img src="./resource/test1.svg" alt="test1" width="128">
 
 Cross-platform command line interface program that converts RGB (Red,Green,Blue) integers into their corresponding hexadecimal value.
