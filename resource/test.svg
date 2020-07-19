@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 24" style="enable-background:new 0 0 96 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1F1F1F;}
+	.st1{fill:none;}
+	.st2{fill:#EFEFEF;}
+	.st3{font-family:'Arial';}
+	.st4{font-size:11px;}
+	.st5{fill:#FFC40D;}
+	.st6{fill:none;stroke:#1F1F1F;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<path class="st0" d="M48,24H4c-2.2,0-4-1.8-4-4V4c0-2.2,1.8-4,4-4h44V24z"/>
+	<rect y="7" class="st1" width="48" height="24"/>
+	<text transform="matrix(1.1428 0 0 1 3.7412 14.876)" class="st2 st3 st4">Fortran</text>
+</g>
+<g id="Layer_2">
+	<path class="st5" d="M92,24H48V0h44c2.2,0,4,1.8,4,4v16C96,22.2,94.2,24,92,24z"/>
+	<rect x="48" y="7" class="st1" width="48" height="24"/>
+	<text transform="matrix(1.1428 0 0 1 56.6357 14.876)" class="st0 st3 st4">Utility</text>
+</g>
+<g id="Layer_3">
+	<path class="st6" d="M92,24H4c-2.2,0-4-1.8-4-4V4c0-2.2,1.8-4,4-4h88c2.2,0,4,1.8,4,4v16C96,22.2,94.2,24,92,24z"/>
+</g>
+</svg>
